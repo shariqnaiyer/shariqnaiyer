@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Rust
-- 🔭 I’m deepening my knowledge of infrastructure and pursuing my AWS Solutions Architect Certificate
+- 🔭 I’m deepening my knowledge of infrastructure and pursuing my AWS Certified Developer Associate Certificate
 <!--
 **snaiyer-learn/snaiyer-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
