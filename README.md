@@ -1,5 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m deepening my knowledge of infrastructure and pursuing the AWS Certified Developer - Associate exam 
+
+[![Shariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/shariqnaiyer/github-readme-stats)
+
 <!--
 **snaiyer-learn/snaiyer-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
