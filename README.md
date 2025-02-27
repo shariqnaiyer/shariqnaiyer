@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m deepening my knowledge of infrastructure and pursuing the AWS Certified Developer - Associate exam 
+- 🔭 I’m deepening my knowledge of infrastructure and pursuing the AWS Certified Developer - Associate exam
 
 [![Shariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariqnaiyer)](https://github.com/shariqnaiyer/github-readme-stats)
 
